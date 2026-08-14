@@ -29,10 +29,9 @@ I specialize in building scalable cloud infrastructure, automating CI/CD pipelin
 
 ### 📊 GitHub Overview
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skumar-ctl&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skumar-ctl&layout=compact&theme=dark" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skumar-ctl&theme=dark" alt="GitHub Summary" width="100%" />
+</p>
 
 ### 🔗 Connect with Me
 
