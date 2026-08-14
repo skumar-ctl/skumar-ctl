@@ -27,14 +27,6 @@ I specialize in building scalable cloud infrastructure, automating CI/CD pipelin
 
 ---
 
-### 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skumar-ctl&theme=dark" alt="GitHub Summary" width="100%" />
-</p>
-
----
-
 ### 💼 Current Role
 
 <p align="left">
@@ -42,13 +34,6 @@ I specialize in building scalable cloud infrastructure, automating CI/CD pipelin
   &nbsp;
   <strong>Senior Platform Engineer</strong>
 </p>
-
----
-
-### 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isathish28/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathishkd28996@gmail.com)
 
 ---
 
@@ -63,3 +48,18 @@ I specialize in building scalable cloud infrastructure, automating CI/CD pipelin
     <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" />
   </a>
 </p>
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skumar-ctl&theme=dark" alt="GitHub Summary" width="100%" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isathish28/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathishkd28996@gmail.com)
+
+---
