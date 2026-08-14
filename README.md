@@ -33,6 +33,18 @@ I specialize in building scalable cloud infrastructure, automating CI/CD pipelin
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skumar-ctl&theme=dark" alt="GitHub Summary" width="100%" />
 </p>
 
+---
+
+### 💼 Current Role
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Ford_Motor_Company-003478?style=for-the-badge&logo=ford&logoColor=white" alt="Ford Motor Company" />
+  &nbsp;
+  <strong>Senior Platform Engineer</strong>
+</p>
+
+---
+
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isathish28/)
