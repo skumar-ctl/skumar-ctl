@@ -33,3 +33,22 @@ I specialize in building scalable cloud infrastructure, automating CI/CD pipelin
   <img src="https://github-readme-stats.vercel.app/api?username=skumar-ctl&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skumar-ctl&layout=compact&theme=dark" alt="Top Languages" />
 </div>
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isathish28/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathishkd28996@gmail.com)
+
+---
+
+### 📜 Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/96f16c5a-4ac4-4fe9-a0c2-2bb1f0c12834" target="_blank">
+    <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/85ae8488-81a9-4113-bce9-eea3dfb16ce6" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" />
+  </a>
+</p>
