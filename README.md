@@ -3,6 +3,7 @@
 ### 🚀 Cloud, DevOps & Platform Engineer
 
 DevSecOps/Platform Engineer with 8+ years of experience building scalable DevSecOps platforms across AWS and GCP. Led Kubernetes-based platform initiatives, improved developer onboarding through self-service IDP solutions, and focused on automation, security, and developer productivity.
+
 ---
 
 ### 🧰 Tech Stack & Tools
@@ -33,6 +34,10 @@ DevSecOps/Platform Engineer with 8+ years of experience building scalable DevSec
   &nbsp;
   <strong>Senior Platform Engineer</strong>
 </p>
+
+---
+
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./SathishKumar_V1_Resume.pdf)
 
 ---
 
