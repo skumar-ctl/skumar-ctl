@@ -37,10 +37,6 @@ DevSecOps/Platform Engineer with 8+ years of experience building scalable DevSec
 
 ---
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./SathishKumar_V1_Resume.pdf)
-
----
-
 ### 📜 Certifications
 
 <p align="left">
@@ -61,9 +57,18 @@ DevSecOps/Platform Engineer with 8+ years of experience building scalable DevSec
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Connect & Resume
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isathish28/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathishkd28996@gmail.com)
-
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/isathish28/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1iRjglqW6dRKSuE5xXcmaRpG4jvgrUdAi/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+  </a>
+  &nbsp;
+  <a href="mailto:sathishkd28996@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
