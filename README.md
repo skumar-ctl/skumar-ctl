@@ -70,14 +70,6 @@ DevSecOps & Platform Engineer with 8+ years of experience architecting resilient
 
 ---
 
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-*Recent GitHub activity will automatically populate here via GitHub Actions.*
-<!--END_SECTION:activity-->
-
----
-
 ### 🔗 Connect & Resume
 
 <p align="left">
