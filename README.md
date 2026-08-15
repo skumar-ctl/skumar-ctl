@@ -1,8 +1,41 @@
 # Hi there, I'm Sathish! 👋
 
-### 🚀 Cloud, DevOps & Platform Engineer
+### 🚀 Senior Platform Engineer @ Ford Motor Company
 
-DevSecOps/Platform Engineer with 8+ years of experience building scalable DevSecOps platforms across AWS and GCP. Led Kubernetes-based platform initiatives, improved developer onboarding through self-service IDP solutions, and focused on automation, security, and developer productivity.
+DevSecOps & Platform Engineer with 8+ years of experience architecting resilient platform solutions across AWS and GCP. Focused on self-service developer portals (IDP), Kubernetes infrastructure, GitOps automation, and security integration.
+
+---
+
+### 💼 Current Role
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Ford_Motor_Company-003478?style=for-the-badge&logo=ford&logoColor=white" alt="Ford Motor Company" />
+  &nbsp;
+  <strong>Senior Platform Engineer</strong>
+</p>
+
+---
+
+### 🏗️ Platform Engineering Pillars
+
+- **Internal Developer Platforms (IDP):** Designing self-service developer portals to reduce friction and accelerate time-to-market.
+- **GitOps & Orchestration:** Declarative Kubernetes deployment strategies across multi-cluster environments using ArgoCD and Helm.
+- **Infrastructure as Code (IaC):** Structuring modular, production-ready IaC with Terraform for cloud landing zones and K8s clusters.
+- **Automated DevSecOps Pipelines:** Integrating policy-as-code, SAST/container security scanning, and automated rollouts into GitHub Actions.
+
+---
+
+### 📜 Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/96f16c5a-4ac4-4fe9-a0c2-2bb1f0c12834" target="_blank">
+    <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/85ae8488-81a9-4113-bce9-eea3dfb16ce6" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" />
+  </a>
+</p>
 
 ---
 
@@ -20,40 +53,32 @@ DevSecOps/Platform Engineer with 8+ years of experience building scalable DevSec
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
-#### **CI/CD & Observability**
+#### **CI/CD, Observability & Developer Portal**
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Backstage](https://img.shields.io/badge/Backstage-000000?style=for-the-badge&logo=backstage&logoColor=white)
 
 ---
 
-### 💼 Current Role
+### 📊 GitHub Overview & Dynamic Metrics
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Ford_Motor_Company-003478?style=for-the-badge&logo=ford&logoColor=white" alt="Ford Motor Company" />
-  &nbsp;
-  <strong>Senior Platform Engineer</strong>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skumar-ctl&theme=dark" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skumar-ctl&layout=compact&theme=dark" alt="Top Languages" width="47%" />
 </p>
-
----
-
-### 📜 Certifications
-
-<p align="left">
-  <a href="https://www.credly.com/badges/96f16c5a-4ac4-4fe9-a0c2-2bb1f0c12834" target="_blank">
-    <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA" />
-  </a>
-  &nbsp;
-  <a href="https://www.credly.com/badges/85ae8488-81a9-4113-bce9-eea3dfb16ce6" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" />
-  </a>
-</p>
-
-### 📊 GitHub Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skumar-ctl&theme=dark" alt="GitHub Summary" width="100%" />
 </p>
+
+---
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+*Recent GitHub activity will automatically populate here via GitHub Actions.*
+<!--END_SECTION:activity-->
 
 ---
 
