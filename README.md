@@ -64,12 +64,8 @@ DevSecOps & Platform Engineer with 8+ years of experience architecting resilient
 ### 📊 GitHub Overview & Dynamic Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skumar-ctl&theme=dark" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skumar-ctl&layout=compact&theme=dark" alt="Top Languages" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skumar-ctl&theme=dark" alt="GitHub Summary" width="100%" />
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=skumar-ctl&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=skumar-ctl&layout=compact&theme=dark" alt="Top Languages" width="47%" />
 </p>
 
 ---
