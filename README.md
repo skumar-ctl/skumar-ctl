@@ -2,8 +2,7 @@
 
 ### 🚀 Cloud, DevOps & Platform Engineer
 
-I specialize in building scalable cloud infrastructure, automating CI/CD pipelines, and driving platform engineering practices with GitOps and Kubernetes.
-
+DevSecOps/Platform Engineer with 8+ years of experience building scalable DevSecOps platforms across AWS and GCP. Led Kubernetes-based platform initiatives, improved developer onboarding through self-service IDP solutions, and focused on automation, security, and developer productivity.
 ---
 
 ### 🧰 Tech Stack & Tools
